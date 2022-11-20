@@ -2,4 +2,6 @@
 void main()
 {
 printf("Helo World...!!!");
+
+printf("\nThe is the basic C program");
 }
